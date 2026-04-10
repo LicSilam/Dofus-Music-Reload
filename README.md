@@ -41,7 +41,7 @@ Twitter : @SilamLiCrounch
 ###############################################################################
 #  Il faut impérativement installer "tesseract-ocr-w64-setup-5.4.0.20240606"  #
 #  avant de lancer Dofus Music.exe sinon la musique ne s'actualisera pas.     #
-##################################https://github.com/tesseract-ocr/tesseract##############################################
+https://github.com/tesseract-ocr/tesseract
 
 
 
